@@ -1,0 +1,41 @@
+#block{
+	font-family: Times, "Times New Roman", serif, Georgia;
+	color: black;
+	background-color: aqua;
+	text-align: left;
+	border: 1px solid;
+	border-color: green;
+}
+@media (min-width: 701px){	
+	ul{
+		margin-top: 5px;
+		padding-top: 5px;
+	}
+	#rightblock{
+		background-color: darkgray;
+		margin-left: 500px;
+	}	
+}
+#leftblock{
+		background-color: bisque;
+		float: left;
+		width: 500px;
+	}
+@media (max-width: 700px){
+	ul{
+		margin: 0px;
+	}
+	li{
+		display: inline;
+	}
+	#leftblock{
+		background-color: bisque;
+		width: 100%;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	#rightblock{
+		background-color: darkgray;
+		margin-top: 50px;
+	}	
+}

@@ -1,0 +1,16 @@
+#block{
+	font-family: Times, "Times New Roman", serif, Georgia;
+	color: white;
+	background-color: blue;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: 600px;
+	text-align: left;
+}
+img{
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}

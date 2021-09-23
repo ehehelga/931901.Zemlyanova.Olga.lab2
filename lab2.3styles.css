@@ -1,0 +1,13 @@
+body{
+	font-family: Times, "Times New Roman", serif, Georgia;
+}
+main{
+	color: white;
+        background-color: blue;
+	text-align: left;
+	width: 600px; 
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}

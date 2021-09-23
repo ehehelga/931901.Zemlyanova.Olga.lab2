@@ -1,0 +1,27 @@
+body{
+	font-family: Times, "Times New Roman", serif, Georgia;
+}
+#block1{
+	background-color: aqua;
+}
+ul{
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#block2{
+	background-color: bisque;
+	float: left;
+	width: 200px;
+}
+#block3{
+	background-color: darkgray;
+	margin-left: 200px;
+}
+#block4{
+	background-color: limegreen;
+	height: 50px;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	position: fixed;
+}

@@ -1,0 +1,23 @@
+body{
+	font-family: Times, "Times New Roman", serif, Georgia;
+}
+#block1{
+	text-align: left;
+	width: 500px; 
+	max-height: 35%;
+	margin: 20px;
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#block2{
+	padding: 50px;
+	text-align: left;
+	width: 400px; 
+	max-height: 35%;
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+	border-color: blue;
+	border: 10px solid;
+}

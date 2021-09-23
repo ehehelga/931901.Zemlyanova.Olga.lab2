@@ -1,0 +1,53 @@
+body{
+	font-family: Times, "Times New Roman", serif, Georgia;
+	text-align: left;
+	color: white;
+}
+#block1{
+	background-color: blueviolet;
+	padding: 0px;
+	position: static;
+	width: 150px;
+	height: 100px;
+}
+.relativeblock{
+	position: relative;
+}
+#block2{
+	background-color: darkred;
+	padding: 0px;
+	width: 150px;
+	height: 100px;
+}
+#block3{
+	background-color: peru;
+	padding: 0px;
+	width: 150px;
+	height: 100px; 
+	left: 30px; 
+	bottom: 30px;
+}
+#block4{
+	background-color: indianred;
+	padding: 10px;
+	width: 600px;
+	height: 400px;	
+}
+#block5{
+	background-color: indigo;
+	padding: 0px;
+	position: absolute;
+	width: 300px;
+	height: 200px;	
+	bottom: 80px;
+	left: 320px;
+}
+#block6{
+	background-color: green;
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	right: 0px;
+	bottom: 0px;
+}
+
